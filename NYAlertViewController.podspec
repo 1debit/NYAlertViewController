@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author           = { "Neal Young" => "hi@nealyoung.me" }
   s.social_media_url = "http://nealyoung.me"
   s.platform         = :ios, "8.0"
-  s.source           = { :git => "https://github.com/nealyoung/NYAlertViewController.git", :tag => "#{s.version}" }
+  s.source           = { :git => "https://github.com/1debit/NYAlertViewController.git", :tag => "#{s.version}" }
   s.source_files     = "NYAlertViewController/*.{h,m}"
   s.requires_arc     = true
 end
